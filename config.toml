@@ -2,3 +2,11 @@ baseURL = "https://mengnancui.github.io/mengnancui/"
 languageCode = "en-us"
 title = "My blog"
 theme = "docport"
+params:
+  Subtitle: "Hugo is Absurdly Fast!"
+  AuthorName: "Jon Doe"
+  GitHubUser: "spf13"
+  ListOfFoo:
+    - "foo1"
+    - "foo2"
+  SidebarRecentLimit: 5
